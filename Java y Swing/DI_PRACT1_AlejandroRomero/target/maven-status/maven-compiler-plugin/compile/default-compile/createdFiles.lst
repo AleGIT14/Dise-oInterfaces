@@ -1,0 +1,8 @@
+com\di_pract1\DI_PRACT1_AlejandroRomero$1.class
+com\di_pract1\DI_PRACT1_AlejandroRomero.class
+com\exceptions\IllegalOrphanException.class
+com\exceptions\NonexistentEntityException.class
+com\modelo\Articulo_.class
+com\controlador\ArticuloJpaController.class
+com\exceptions\PreexistingEntityException.class
+com\modelo\Articulo.class

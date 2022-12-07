@@ -1,0 +1,26 @@
+﻿<Window x:Class="CalculadoraBasica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculadoraBasica"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="388.2" Width="199.2">
+    <Grid>
+        <TextBox x:Name="txtOp1" HorizontalAlignment="Left" Height="23" Margin="27,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" FontSize="16" TextChanged="txtOp1_TextChanged"/>
+        <TextBox x:Name="txtOp2" HorizontalAlignment="Left" Height="23" Margin="115,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" FontSize="16" TextChanged="txtOp2_TextChanged"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="57,235,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="16" Click="btnLimpiar_Click"/>
+        <Button x:Name="btnCalcular" Content="Calcular" HorizontalAlignment="Left" Margin="57,119,0,0" VerticalAlignment="Top" Width="75" FontSize="16" Click="btnCalcular_Click"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="57,301,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="16" Click="btnSalir_Click"/>
+        <TextBox x:Name="txtRes" HorizontalAlignment="Left" Height="23" Margin="67,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" IsEnabled="False"/>
+        <Label Content="x:" HorizontalAlignment="Left" Margin="9,41,0,0" VerticalAlignment="Top" Height="23"/>
+        <Label Content="y:" HorizontalAlignment="Left" Margin="92,41,0,0" VerticalAlignment="Top" Height="26"/>
+        <StackPanel x:Name="stkOp" HorizontalAlignment="Left" Height="63" VerticalAlignment="Top" Width="115" Margin="37,158,0,0">
+            <RadioButton x:Name="rbSum" Content="Sumar" HorizontalAlignment="Left" VerticalAlignment="Top" GroupName="operaciones" Checked="rbSum_Checked"/>
+            <RadioButton x:Name="rbResta" Content="Restar" HorizontalAlignment="Left" VerticalAlignment="Top" GroupName="operaciones" Checked="rbResta_Checked"/>
+            <RadioButton x:Name="rbMult" Content="Multiplicar" HorizontalAlignment="Left" VerticalAlignment="Top" GroupName="operaciones" Checked="rbMult_Checked"/>
+            <RadioButton x:Name="rbDiv" Content="Dividir" HorizontalAlignment="Left" VerticalAlignment="Top" GroupName="operaciones" Checked="rbDiv_Checked"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

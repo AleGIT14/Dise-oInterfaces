@@ -1,0 +1,15 @@
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.AssemblyReference.cache
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\MainWindow.g.cs
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\App.g.cs
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica_MarkupCompile.cache
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica_MarkupCompile.lref
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\MainWindow.baml
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.g.resources
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.cache
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\aromcon1407_iesmarti\Desktop\GIT\DesarrolloInterfaces\C#\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb

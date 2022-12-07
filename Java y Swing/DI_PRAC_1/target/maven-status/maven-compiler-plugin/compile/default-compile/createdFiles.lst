@@ -1,0 +1,9 @@
+com\mycompany\pruebabd\pruebaBD$1.class
+com\mycompany\pruebabdd\exceptions\NonexistentEntityException.class
+com\mycompany\pruebabd\pruebaBD.class
+com\controlador\CocheJpaController.class
+com\mycompany\pruebabd\Coche.class
+com\mycompany\pruebabd\Coche_.class
+com\mycompany\pruebabd\pruebaBD$2.class
+com\mycompany\pruebabdd\exceptions\IllegalOrphanException.class
+com\mycompany\pruebabdd\exceptions\PreexistingEntityException.class
